@@ -3,3 +3,4 @@ overlay on the screen that hides unnecessary information on the screen
 requirements:
 PyQt6>=6.5.0
 numpy>=1.24.0
+scipy>=1.10.0
